@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about ... whatever
 - 📫 How to reach me: [why would you?](https://sites.google.com/view/raffaello-ippolito/home)
-- ⚡ Fun fact: I'am stupid 😉
+- ⚡ Fun fact: I'm stupid 😉
 <!--
 -->
