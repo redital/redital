@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm stupid 😉
 <!--
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redital&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redital&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
