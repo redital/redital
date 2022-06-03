@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on EXAMS...
-- 🌱 I’m currently learning statistics
+- 🌱 I’m currently learning partial differential equation
 - 👯 I’m looking to collaborate on Sbrikki's Books website with [Mike-cheek](https://github.com/Mike-cheek)
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about ... whatever
