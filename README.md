@@ -1,12 +1,12 @@
 # Hi there 👋
 
 
-**redital/redital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **redital/redital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on EXAMS...
-- 🌱 I’m currently learning partial differential equation
+<!-- Here are some ideas to get you started:-->
+- :tada: Celebrating for my degree in Math for the Engineering
+- 🔭 I’m currently working on MyFirstUnityGame...
+- 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on Sbrikki's Books website with [Mike-cheek](https://github.com/Mike-cheek)
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about ... whatever
