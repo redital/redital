@@ -5,10 +5,10 @@
 
 <!-- Here are some ideas to get you started:-->
 - :tada: Celebrating for my degree in Math for the Engineering
-- 🔭 I’m currently working on MyFirstUnityGame...
-- 🌱 I’m currently learning Unity
+- 🔭 I’m currently working on My Home Server...
+- 🌱 I’m currently learning too many things... most data analisys
 - 👯 I’m looking to collaborate on Sbrikki's Books website with [Mike-cheek](https://github.com/Mike-cheek)
-- 🤔 I’m looking for help with frontend development
+- 🤔 I’m looking for help with computer vision
 - 💬 Ask me about ... whatever
 - 📫 How to reach me: [why would you?](https://sites.google.com/view/raffaello-ippolito/home)
 - ⚡ Fun fact: I'm stupid 😉
